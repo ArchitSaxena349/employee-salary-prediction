@@ -120,10 +120,3 @@ Distributed under the **MIT License** — copy, remix, reuse — just give credi
 
 Cheers,
 **Archit Saxena** 🚀
-
-```
-
----
-
-Want it as a downloadable file or directly pushed to your GitHub repo via PR or Gist? I gotchu.
-```
